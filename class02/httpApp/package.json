@@ -1,0 +1,24 @@
+{
+  "name": "httpapp",
+  "version": "1.0.0",
+  "description": "HTTP SERVER",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yadab-Sd/MWA/class02/httpApp"
+  },
+  "keywords": [
+    "HTTP",
+    "NODEJS",
+    "SERVER"
+  ],
+  "author": "Yadab Sutradhar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
