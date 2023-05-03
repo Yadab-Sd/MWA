@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "EXPRESS APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yadab-Sd/MWA/class02/expressApp"
+  },
+  "keywords": [
+    "EXPRESS",
+    "SERVER",
+    "STATIC_FILES_SERVE"
+  ],
+  "author": "Yadab Sutradhar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}

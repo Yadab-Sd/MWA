@@ -1,0 +1,21 @@
+{
+  "serverStartText": "Started listening to:",
+  "httpResponseMessage": {
+    "postSuccess": "Hey! You make a POST request",
+    "success": "Success"
+  },
+  "httpErrorMessage": {
+    "fileUploadFail": "Unable to upload the requested file",
+    "notFound": "Not found: 404"
+  },
+  "httpCode": {
+    "success": 200,
+    "notFound": 404,
+    "serverError": 500
+  },
+  "httpHeaderProperty": {
+    "contentType": "Content-Type",
+    "jsonApplication": "application/json",
+    "htmlText": "text/html"
+  }
+}
